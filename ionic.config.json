@@ -1,0 +1,7 @@
+{
+  "name": "ionic-multi-tenant",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
